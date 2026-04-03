@@ -62,8 +62,8 @@
 &bt BT_CLR  &bt BT_NXT  &bt BT_NXT  &bt BT_NXT  &bt BT_NXT  &bt BT_NXT  &trans  &rgb_ug RGB_TOG  &rgb_ug RGB_EFF  &trans  &trans  &trans
 &sys_reset  &trans  &trans  &trans  &trans  &studio_unlock  &studio_unlock  &rgb_ug RGB_HUI  &rgb_ug RGB_SAI  &rgb_ug RGB_BRI  &rgb_ug RGB_SPI  &sys_reset
 &bootloader  &trans  &trans  &trans  &trans  &trans  &trans  &rgb_ug RGB_HUD  &rgb_ug RGB_SAD  &rgb_ug RGB_BRD  &rgb_ug RGB_SPD  &bootloader
-&to 9  &trans  &trans  &trans  &trans  &trans  &trans  &trans        &to 9
-&to 9  &trans  &trans  &tog 5  &trans  &trans        &to 9
+&to 9  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &to 9
+&to 9  &trans  &trans  &tog 5  &trans  &trans  &trans  &trans  &trans  &to 9
 &trans  &trans  &trans  &trans  &trans  &trans
 &to 0    &trans  &trans  &trans  &trans
             >;
